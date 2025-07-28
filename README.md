@@ -19,7 +19,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/shoppyglobe.git
-cd shoppyglobe
+git clone https://github.com/ManvithGatty/E-Commerce-Application.git
+cd E-Commerce-Application
 npm install
 npm run dev    
