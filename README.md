@@ -16,7 +16,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/ManvithGatty/E-Commerce-Application.git
